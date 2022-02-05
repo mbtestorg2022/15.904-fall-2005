@@ -4,19 +4,341 @@ title: Calendar
 uid: 3ae5d342-2cf9-9f3a-6a3b-1c7a88660d75
 ---
 
-| ses # | topics | key dates |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Course Overview {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Customer Segmentation and Customer Value Proposition {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Group Presentations_ {{< br >}}{{< br >}} Customer Segmentation and Customer Value Proposition {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 1: Customer Segmentation and Customer Value Proposition {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Firm as a Bundle of Competencies {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Group Presentations  {{< br >}}_  {{< br >}}The Firm as a Bundle of Competencies {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 2: Bundle of Competencies {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Mission of the Firm and the Craft of the Strategic Agenda {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Group Presentations_ {{< br >}}{{< br >}} Mission and Strategic Agenda {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 3: Mission and Strategic Agenda {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Operational Effectiveness {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Group Presentations_ {{< br >}}{{< br >}} Operational Effectiveness {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 4: Operational Effectiveness {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Innovation {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Group Presentations_ {{< br >}}{{< br >}} Innovation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 5: Innovation {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Aggregate and Granular Metrics and Financial Evaluation {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Group Presentations_ {{< br >}}{{< br >}} Aggregate and Granular Metrics and Financial Evaluation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 6: Aggregate and Granular Metrics and Financial Evaluation {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final Wrap-up {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 7: Final Report and Executive Summary {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Overview
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Customer Segmentation and Customer Value Proposition
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Group Presentations_
+
+Customer Segmentation and Customer Value Proposition
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 1: Customer Segmentation and Customer Value Proposition
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Firm as a Bundle of Competencies
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Group Presentations  
+_  
+The Firm as a Bundle of Competencies
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 2: Bundle of Competencies
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Mission of the Firm and the Craft of the Strategic Agenda
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Group Presentations_
+
+Mission and Strategic Agenda
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 3: Mission and Strategic Agenda
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Operational Effectiveness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Group Presentations_
+
+Operational Effectiveness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 4: Operational Effectiveness
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Innovation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Group Presentations_
+
+Innovation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 5: Innovation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aggregate and Granular Metrics and Financial Evaluation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Group Presentations_
+
+Aggregate and Granular Metrics and Financial Evaluation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 6: Aggregate and Granular Metrics and Financial Evaluation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Wrap-up
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 7: Final Report and Executive Summary
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
