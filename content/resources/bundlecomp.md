@@ -5,6 +5,7 @@ description: This resource discusses strategic positioning, Delta Model strategi
   from the Delta Model.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-904-strategic-management-ii-fall-2005/29bba942246d194f5518d2acf318467a_bundlecomp.pdf
 file_type: application/pdf
+parent_uid: 86e5f43b-c04b-79f9-4605-4de1284f020d
 resourcetype: Document
 title: bundlecomp.pdf
 uid: 29bba942-246d-194f-5518-d2acf318467a

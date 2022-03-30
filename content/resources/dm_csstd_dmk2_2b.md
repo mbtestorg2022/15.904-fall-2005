@@ -5,6 +5,7 @@ description: This resource discusses customer segmentation and its main characte
   solution seeker, tier 4 ? body shoppers), and customer value proposotion.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-904-strategic-management-ii-fall-2005/79babe0b6b5c50206a0bda471c518244_dm_csstd_dmk2_2b.pdf
 file_type: application/pdf
+parent_uid: 86e5f43b-c04b-79f9-4605-4de1284f020d
 resourcetype: Document
 title: dm_csstd_dmk2_2b.pdf
 uid: 79babe0b-6b5c-5020-6a0b-da471c518244

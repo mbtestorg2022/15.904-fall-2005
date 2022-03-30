@@ -4,6 +4,7 @@ description: This resource discusses mission of the firm, mission statement, cas
   of Synthes, and case of P&G.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-904-strategic-management-ii-fall-2005/a3cd117b92fc9764b79c54934bbc4877_mission.pdf
 file_type: application/pdf
+parent_uid: 86e5f43b-c04b-79f9-4605-4de1284f020d
 resourcetype: Document
 title: mission.pdf
 uid: a3cd117b-92fc-9764-b79c-54934bbc4877
